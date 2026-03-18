@@ -36,7 +36,7 @@ export default function Home() {
       url: '#',
     },
     {
-      title: 'Ver trabalhos no Instagram',
+      title: 'Instagram',
       icon: <Instagram className="h-5 w-5 text-white" strokeWidth={1.5} />,
       url: '#',
     },
