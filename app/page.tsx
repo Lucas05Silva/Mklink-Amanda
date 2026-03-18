@@ -31,7 +31,7 @@ export default function Home() {
       url: '#',
     },
     {
-      title: 'Localizacao',
+      title: 'Localização',
       icon: <MapPin className="h-5 w-5 text-white" strokeWidth={1.5} />,
       url: '#',
     },
@@ -41,7 +41,7 @@ export default function Home() {
       url: '#',
     },
     {
-      title: 'Servicos e valores',
+      title: 'Serviços e valores',
       icon: <Sparkles className="h-5 w-5 text-white" strokeWidth={1.5} />,
       url: '#',
     },
@@ -92,7 +92,7 @@ export default function Home() {
 
           <div className="mb-10 flex flex-col items-center space-y-1.5">
             <p className="text-[14px] font-light tracking-wide text-[#7A6B67] sm:text-[15px]">
-              Agilidade + acabamento impecavel
+              Agilidade + acabamento impecável
             </p>
           </div>
         </motion.div>
@@ -121,7 +121,7 @@ export default function Home() {
 
         <motion.footer variants={itemVariants} className="mt-auto w-full pt-4">
           <p className="text-[11px] font-medium uppercase tracking-wider text-[#8A7873]/70">
-            (c) 2026 Amanda Ramos Nails <span className="mx-1">-</span> Todos os direitos reservados
+            © 2026 Amanda Ramos Nails <span className="mx-1">•</span> Todos os direitos reservados
           </p>
         </motion.footer>
       </motion.div>

@@ -3,7 +3,7 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: 'Amanda Ramos | Nail Designer',
-  description: 'Alongamento em fibra de vidro e esmaltacao em gel.',
+  description: 'Alongamento em fibra de vidro e esmaltação em gel.',
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
