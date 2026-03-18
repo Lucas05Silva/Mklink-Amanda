@@ -1,8 +1,8 @@
 ﻿@import "tailwindcss";
 
 :root {
-  --font-sans: "Segoe UI", "Noto Sans", Arial, sans-serif;
-  --font-serif: "Georgia", "Times New Roman", serif;
+  --font-sans: "Inter", "Poppins", "Segoe UI", "Noto Sans", Arial, sans-serif;
+  --font-serif: "Playfair Display", "Cormorant Garamond", "Georgia", "Times New Roman", serif;
 }
 
 body {

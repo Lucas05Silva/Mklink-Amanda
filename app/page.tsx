@@ -77,10 +77,10 @@ export default function Home() {
         </motion.div>
 
         <motion.div variants={itemVariants} className="flex w-full flex-col items-center">
-          <h1 className="font-serif mb-3 text-4xl font-medium leading-none tracking-tight text-[#3B2B2B] sm:text-[42px]">
+          <h1 className="font-serif mb-3 text-[48px] font-semibold leading-[0.95] tracking-[0.02em] text-[#3B2B2B] sm:text-[56px]">
             Amanda Ramos
           </h1>
-          <p className="text-[11px] font-semibold uppercase tracking-[0.3em] text-[#8A7873] sm:text-[12px]">
+          <p className="text-[11px] font-normal uppercase tracking-[0.26em] text-[#8A7873] opacity-80 sm:text-[12px]">
             Nail Designer
           </p>
 
@@ -91,7 +91,7 @@ export default function Home() {
           </div>
 
           <div className="mb-10 flex flex-col items-center space-y-1.5">
-            <p className="text-[14px] font-light tracking-wide text-[#7A6B67] sm:text-[15px]">
+            <p className="text-[14px] font-normal leading-relaxed tracking-[0.04em] text-[#7A6B67] sm:text-[15px]">
               Agilidade + acabamento impecável
             </p>
           </div>
