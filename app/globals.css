@@ -1,0 +1,14 @@
+﻿@import "tailwindcss";
+
+:root {
+  --font-sans: "Segoe UI", "Noto Sans", Arial, sans-serif;
+  --font-serif: "Georgia", "Times New Roman", serif;
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+.font-serif {
+  font-family: var(--font-serif);
+}
